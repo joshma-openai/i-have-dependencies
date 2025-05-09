@@ -2,6 +2,10 @@
   "name": "test-yarn",
   "packageManager": "yarn@4.6.0",
   "dependencies": {
+    "cowsay": "^1.6.0",
     "react": "^19.1.0"
+  },
+  "scripts": {
+    "say": "node index.js"
   }
 }
