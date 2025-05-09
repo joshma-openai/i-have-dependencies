@@ -19,6 +19,9 @@ repositories {
 dependencies {
     // This dependency is used by the application.
     implementation(libs.guava)
+    
+    // Add Apache Commons Lang for utility methods
+    implementation("org.apache.commons:commons-lang3:3.12.0")
 }
 
 testing {
