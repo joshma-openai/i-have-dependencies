@@ -22,6 +22,8 @@ dependencies {
     
     // Add Apache Commons Lang for utility methods
     implementation("org.apache.commons:commons-lang3:3.12.0")
+
+    implementation("com.github.lalyos:jfiglet:0.0.8")
 }
 
 testing {
