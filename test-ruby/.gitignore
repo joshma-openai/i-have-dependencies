@@ -1,0 +1,35 @@
+# Ignore bundler config and installed gems
+/.bundle/
+/vendor/bundle/
+
+# Ignore log and temp files
+/log/*.log
+/tmp/**
+
+# Ignore uploaded files and caches
+/public/system/
+/coverage/
+/spec/examples.txt
+
+# Ignore OS files
+.DS_Store
+
+# Ignore dotenv environment files
+.env
+.env.*.local
+
+# Ignore editors / IDEs
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Ignore byebug history
+.byebug_history
+
+# Ignore Ruby version managers
+.ruby-version
+.ruby-gemset
+
+# gems
+vendor/
