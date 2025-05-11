@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "eslint": "^9.26.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nextjs": "^0.0.3",
+    "react": "^19.1.0"
   }
 }
