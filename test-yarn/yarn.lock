@@ -244,12 +244,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"tailwindcss@npm:^4.1.6":
+  version: 4.1.6
+  resolution: "tailwindcss@npm:4.1.6"
+  checksum: 10c0/de5a442d23d20872bfccb2b451720e8031dde27e1984a1ccb1d8c7308915213f1b3b62724ce5176d1b7031fbedc6a75fe844b73e3f13443141c11739447d8808
+  languageName: node
+  linkType: hard
+
 "test-yarn@workspace:.":
   version: 0.0.0-use.local
   resolution: "test-yarn@workspace:."
   dependencies:
     cowsay: "npm:^1.6.0"
     react: "npm:^19.1.0"
+    tailwindcss: "npm:^4.1.6"
   languageName: unknown
   linkType: soft
 

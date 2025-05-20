@@ -3,7 +3,8 @@
   "packageManager": "yarn@4.6.0",
   "dependencies": {
     "cowsay": "^1.6.0",
-    "react": "^19.1.0"
+    "react": "^19.1.0",
+    "tailwindcss": "^4.1.6"
   },
   "scripts": {
     "say": "node index.js"
